@@ -1,9 +1,9 @@
 /** typography **/
 
-@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau&display=swap');
 
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ysabeau', sans-serif;
   margin: 0px;
 }
 
@@ -15,7 +15,7 @@ hr {
   text-align: center;
   font-size: x-large;
   padding: 3rem;
-  background: linear-gradient(90deg, #fed7aa 0%, #fde68a 100%);
+  background: linear-gradient(180deg, #bef264 0%, #ecfccb 100%);
 }
 
 /** container **/
@@ -60,7 +60,7 @@ img {
 /** footer **/
 
 .footer {
-  background: linear-gradient(90deg, #fed7aa 0%, #fde68a 100%);
+  background: linear-gradient(0deg, #bef264 0%, #ecfccb 100%);
   padding: 2rem 1rem;
   text-align: center;
   color: black;
